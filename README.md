@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Rajan...</h2>
+<h2 data-importer="text" align="left">Hi there! 👋 I'm Rajan, an aspiring Software Engineer passionate about Java, MERN Stack, and solving DSA problems.</h2>
 
 ###
 

@@ -1,5 +1,7 @@
 <h2 data-importer="text" align="left">Hi there! 👋 I'm Rajan, an aspiring Software Engineer passionate about Java, MERN Stack, and solving DSA problems.</h2>
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+###
+Email Me 👉 ✉️ rajan071023@gmail.com For Collaboration/Project or Anything Else. 😊😊
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -26,10 +28,9 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 
 ###
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-jadhao-1a944b350)
 
 ###
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>

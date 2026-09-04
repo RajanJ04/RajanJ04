@@ -30,7 +30,7 @@ Email 👉 ✉️ rajan071023@gmail.com For Collaboration/Project or Anything El
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-jadhao-1a944b350)
 
-[![LeetCode](https://shields.io)](Rajan180D)
+[![LeetCode](https://shields.io)]([Rajan180D](https://leetcode.com/u/Rajan180D/))
 ###
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RajanJ04&theme=dracula" alt="GitHub Streak" /></a>

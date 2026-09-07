@@ -1,7 +1,7 @@
 <h2 data-importer="text" align="left">Hii there! 👋 I'm Rajan, an aspiring Software Engineer passionate about Java, MERN Stack, and solving DSA problems.</h2>
 
 ###
-Email 👉 ✉️ rajan071023@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email 👉 ✉️ rajan071023@gmail.com For Collaboration/Project or Anything Else. 
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
